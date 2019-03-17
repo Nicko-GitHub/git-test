@@ -6,4 +6,8 @@ public class FirstClass {
         System.out.println("我要成为java架构工程师");
         System.out.println("我要站在java的顶端");
     }
+    public void test(){
+        int i=0;
+        i+=10;
+    }
 }
